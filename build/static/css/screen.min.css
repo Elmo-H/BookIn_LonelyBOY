@@ -251,7 +251,7 @@ body {
 	width: 115px;
 	height: 35px;
 	text-align: center;
-	background-color: #1bbc9b;
+	background-color: #EB5E28;
 	font-size: 15px;
 	color: #fff;
 	text-transform: uppercase;
@@ -261,7 +261,7 @@ body {
 }
 
 .contact__form-submit:hover {
-	background-color: #158f76;
+	background-color: #cd4713;
 }
 
 .contact__card {
@@ -442,7 +442,7 @@ body {
 	font-size: 0;
 	text-align: center;
 	overflow: hidden;
-	background-color: #1bbc9b;
+	background-color: #EB5E28;
 	color: transparent;
 	-webkit-transition: all .5s;
 	-o-transition: all .5s;
@@ -450,7 +450,7 @@ body {
 }
 
 .page-footer__gotop:hover {
-	background-color: #158f76;
+	background-color: #cd4713;
 }
 
 .page-footer__gotop:before {
@@ -637,7 +637,7 @@ body {
 	height: 35px;
 	margin: 0 auto 45px;
 	padding-top: 10px;
-	background-color: #1bbc9b;
+	background-color: #EB5E28;
 	font-size: 15px;
 	color: #fff;
 	text-transform: uppercase;
@@ -647,7 +647,7 @@ body {
 }
 
 .promo__btn:hover {
-	background-color: #158f76;
+	background-color: #cd4713;
 }
 
 .promo__go-next {
