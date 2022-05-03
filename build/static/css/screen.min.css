@@ -173,7 +173,7 @@ body {
 	width: 100%;
 	min-height: 500px;
 	padding: 50px 0;
-	background-color: #ecf0f1;
+	background-color: #CCC5B9;
 	text-align: left;
 }
 
@@ -412,7 +412,7 @@ body {
 	width: 100%;
 	min-height: 85px;
 	padding-bottom: 30px;
-	background-color: #2d3e50;
+	background-color: #403D39;
 }
 
 .page-footer__inner {
@@ -465,7 +465,7 @@ body {
 	width: 100%;
 	min-height: 680px;
 	padding-top: 50px;
-	background-color: #fff;
+	background-color: #FFFCF2;
 	text-align: center;
 }
 
@@ -686,7 +686,7 @@ body {
 	width: 100%;
 	min-height: 645px;
 	padding-top: 55px;
-	background-color: #16a086;
+	background-color: #252422;
 	text-align: center;
 }
 
